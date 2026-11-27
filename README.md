@@ -3,6 +3,8 @@
 Remote · UTC+3 (Europe/EMEA)  
 [LinkedIn](https://linkedin.com/in/alexander-evdokimov-ai) · [Telegram](https://t.me/snakerzr) · [Habr](https://habr.com/ru/articles/1059564/)
 
+# [https://snakerzr.github.io/](https://snakerzr.github.io/)
+
 AI Engineer with 3+ years of experience in applied ML/AI, including production LLM work. Specialized in designing complex Agentic workflows and RAG pipelines. Strong focus on AI system architecture, rigorous evaluation (Langfuse), and bridging product requirements with reliable AI logic for systems handling thousands of daily requests. Favor minimal, readable code with clear API contracts over volume.
 
 ## Stack
