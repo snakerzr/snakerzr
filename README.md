@@ -1,7 +1,7 @@
 # Alexander Evdokimov
 **AI Engineer (Agentic Systems / RAG / Evaluation)**  
 Remote · UTC+3 (Europe/EMEA)  
-[LinkedIn](https://linkedin.com/in/alexander-evdokimov-ai) · [Telegram](https://t.me/snakerzr) · [Habr](https://habr.com/ru/articles/1059564/)
+[LinkedIn](https://linkedin.com/in/alexander-evdokimov-ai) · [Telegram](https://t.me/snakerzr)
 
 # [https://snakerzr.github.io/](https://snakerzr.github.io/)
 
